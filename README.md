@@ -1,4 +1,4 @@
-# $\textbf{Unlocking Insights: NYC Taxi Trends Before, During,}$ $\newline$ $\textbf{and After The COVID-19 Pandemic (2019-2022)}$
+# $\textbf{Unlocking Insights: NYC Taxi Trends }$ $\newline$ $\textbf{Before, During,and After The COVID-19 Pandemic (2019-2022)}$
 
 $\textit{Team Members: Aryan Kumar, Jenn Hong, Olimpia Borgohain, Saumya Anand, Setu Shah}$
 
